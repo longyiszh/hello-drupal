@@ -6,7 +6,9 @@
     "require": {
         "composer/installers": "^1.0.24",
         "wikimedia/composer-merge-plugin": "^1.4",
-        "drupal/core": "^8.4.0"
+        "drupal/core": "^8.4.0",
+        "mongodb/mongodb": "^1.0.0",
+        "drush/drush": "^9.1"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
