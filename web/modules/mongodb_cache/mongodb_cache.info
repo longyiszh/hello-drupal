@@ -1,0 +1,13 @@
+name = MongoDB Cache
+description = Integration between MongoDB as Cache.
+package = MongoDB
+version = VERSION
+core = 7.x
+files[] = mongodb_cache.module
+files[] = mongodb_cache.inc
+; Information added by Drupal.org packaging script on 2016-07-03
+version = "8.x-2.0-alpha1"
+core = "8.x"
+project = "mongodb"
+datestamp = "1467538445"
+

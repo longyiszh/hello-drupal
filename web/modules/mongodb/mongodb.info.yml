@@ -1,0 +1,12 @@
+name: 'MongoDB'
+description: 'Integration between Drupal and MongoDB.'
+type: 'module'
+package: 'MongoDB'
+# core: '8.x'
+php: '5.6'
+
+# Information added by Drupal.org packaging script on 2016-07-03
+version: '8.x-2.0-alpha1'
+core: '8.x'
+project: 'mongodb'
+datestamp: 1467538445

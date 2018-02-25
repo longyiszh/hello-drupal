@@ -41,3 +41,7 @@ simpletest
 # site specific
 /.vscode/**
 *.lock
+/config/**
+/web/sites/default/files/**
+settings.php
+settings.local.php
